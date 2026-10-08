@@ -4,6 +4,26 @@
                             "nombre":  "Daniel_Morgante",
                             "huella":  "e6718663b15d7d829a0f4a829d5005af4e08d35b725d7b14d066dc3db1dd5cc9",
                             "alta":  "2026-10-07"
+                        },
+                        {
+                            "nombre":  "Diego_Moyano",
+                            "huella":  "3fc02b489da512d55a0395651bf3f7e3cad1cfa88bdc56c922afd134d28d45de",
+                            "alta":  "2026-10-08"
+                        },
+                        {
+                            "nombre":  "Jorge_Manceñido",
+                            "huella":  "bdbd4a654e1fca16158447cb6429b1b3a08361e914e343d00fec94404af4b8ff",
+                            "alta":  "2026-10-08"
+                        },
+                        {
+                            "nombre":  "José Scaramutti",
+                            "huella":  "e6eec3e0aff6b712cca19dd5607489eacf07e0ffaae80c27ff775446db3e94d5",
+                            "alta":  "2026-10-08"
+                        },
+                        {
+                            "nombre":  "Carlos León",
+                            "huella":  "7ce444edfaade1e450227475ecaafa962ce8aac2979e46235bbf449bc9424525",
+                            "alta":  "2026-10-08"
                         }
                     ]
 }
