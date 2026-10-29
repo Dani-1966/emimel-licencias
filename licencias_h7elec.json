@@ -1,3 +1,13 @@
 {
-    "habilitadas":  []
-}
+    "habilitadas":  [
+                        {
+                            "nombre":  "Tomi Decima",
+                            "huella":  "61c95a59bb36fd4cb175c788dd23fe03ef53a96ceae4c38a6d42ba5b15fc0fa7",
+                            "alta":  "2026-10-28"
+                        },
+                        {
+                            "nombre":  "DANIEL MORGANTE",
+                            "huella":  "a6c24fd619277d5b1cd1466eca0cb5ec4476ef56cae76dda72796efc33eb5f1b",
+                            "alta":  "2026-10-28"
+                        }
+                    ]
