@@ -19,6 +19,11 @@
                             "nombre":  "Revisor Google Play",
                             "huella":  "55061cec6bd8c31513e50c0d06c3ca113508ef709202fd8cb72212f257e8a672",
                             "alta":  "2026-11-19"
+                        },
+                        {
+                            "nombre":  "Testers Play (clave comun)",
+                            "huella":  "14c84920c8699ebdf852ef0d915c4f0d84dffe8946e161f03510b1bfc8666ec4",
+                            "alta":  "2026-11-24"
                         }
                     ]
 }
